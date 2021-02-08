@@ -3,3 +3,6 @@ This is b.txt
 int temp = a;
 a = b;
 b = temp;
+
+# swap a. b in python
+a, b = b, a
